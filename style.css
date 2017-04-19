@@ -79,10 +79,26 @@
 }
 
 .ballSoccer {
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
     border-radius: 50%;
     background: #FFFFFF;
     position: absolute;
-    
+  
+}
+#soccerBall {
+    left: 435px;
+    top: 100px;
+}
+
+#soccerball2 {
+    position: absolute;
+    right: 435px;
+    top: 300px;
+}
+
+#soccerball3 {
+    position: absolute;
+    left: 600px;
+    top: 100px;
 }
